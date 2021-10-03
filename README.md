@@ -29,7 +29,7 @@ This Email Bot uses Voice Commands to receive input and generated the required O
 <h1> PRIVATE ALEXA🔊</h1>
 The Alexa Skills Kit SDK for Python simplifies the development of the back-end cloud service for your Alexa skill. A part of the Alexa Skills Kit, the SDK reduces the amount of code you need to write to process Alexa requests and responses and to handle other common skill tasks.
 <br>
-<h2> MOTIVE/OBJECTIVE </h2>
+<h2> Alexa used in cloudflare </h2>
 
 <h5>How speech recognition works? And How Alexa can be operated using User's VOICE command ?
 A very interesting yet simple project to Throw some light on the Amazing Python Libraries .</h5>
