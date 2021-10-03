@@ -34,22 +34,6 @@ The Alexa Skills Kit SDK for Python simplifies the development of the back-end c
 <h5>How speech recognition works? And How Alexa can be operated using User's VOICE command ?
 A very interesting yet simple project to Throw some light on the Amazing Python Libraries .</h5>
 
-<h3>🎇💬Current functionality of Alexa:🎇💬 </h3>
-
-
-* Finds near by resturants 🍟
-
-* Open google 💻
-
-* Plays music 🎼
-
-* Tells you the time ⏰
-
-* Tells you the date  📆
-
-* Searches the input in chrome  💡
-
-* Do few general chatting like: 'How are you', 'reason for you', etc. 🎭
 
   
 
