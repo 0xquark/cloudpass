@@ -26,14 +26,6 @@ This Email Bot uses Voice Commands to receive input and generated the required O
 <h5>📍 Pyaudio− It can be installed by using pip install Pyaudio command. SpeechRecognition − This package can be installed by using pip install SpeechRecognition , helps us to save time by speaking instead of typing. It also gives us the power to communicate with our devices without even writing one line of code. This makes technological devices more accessible and easier to use. Speech recognition is a great example of using machine learning in real life. In this project the User can give Voice commands to the Program which is Alexa and our Alexa will reply with the Relevant Output in her Melodious Voice .</h5>
 <br>
 
-<h1> PRIVATE ALEXA🔊</h1>
-The Alexa Skills Kit SDK for Python simplifies the development of the back-end cloud service for your Alexa skill. A part of the Alexa Skills Kit, the SDK reduces the amount of code you need to write to process Alexa requests and responses and to handle other common skill tasks.
-<br>
-<h2> Alexa used in cloudflare </h2>
-
-<h5>How speech recognition works? And How Alexa can be operated using User's VOICE command ?
-A very interesting yet simple project to Throw some light on the Amazing Python Libraries .</h5>
-
 
   
 
